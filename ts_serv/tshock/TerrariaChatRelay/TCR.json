@@ -1,0 +1,8 @@
+{
+  "ShowChatMessages": false,
+  "ShowGameEvents": true,
+  "ShowServerStartMessage": true,
+  "ShowServerStopMessage": true,
+  "ShowWorldSeed": true,
+  "CheckForLatestVersion": false
+}

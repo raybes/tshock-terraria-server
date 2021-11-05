@@ -1,0 +1,9 @@
+2021-11-04 15:13:08 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 15:13:09 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 15:13:09 - TShock: INFO: AutoSave Enabled
+2021-11-04 15:13:09 - TShock: INFO: Backups Enabled
+2021-11-04 15:13:09 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 15:13:09 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 15:13:09 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 15:13:09 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 15:13:09 - Config: INFO: Reading config file

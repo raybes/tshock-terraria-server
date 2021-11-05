@@ -1,0 +1,10 @@
+{
+  "DisabledCommandsInPvp": [
+    "back"
+  ],
+  "BackPositionHistory": 16,
+  "MySqlHost": "",
+  "MySqlDbName": "",
+  "MySqlUsername": "",
+  "MySqlPassword": ""
+}

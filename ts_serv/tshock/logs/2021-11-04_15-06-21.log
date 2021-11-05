@@ -1,0 +1,104 @@
+2021-11-04 15:06:21 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 15:06:21 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 15:06:21 - TShock: INFO: AutoSave Enabled
+2021-11-04 15:06:21 - TShock: INFO: Backups Enabled
+2021-11-04 15:06:21 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 15:06:21 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 15:06:21 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 15:06:21 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 15:06:21 - Config: INFO: Reading config file
+2021-11-04 15:06:54 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 15:06:54 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 15:06:54 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 15:07:06 - ProxyLog: INFO: ~~Epiphany~~ authenticated successfully as user ~~Epiphany~~.
+2021-11-04 15:07:11 - ProxyLog: INFO: ~~Epiphany~~ (192.168.1.107) from 'epiphany' group joined. (1/6)
+2021-11-04 15:07:11 - ProxyLog: INFO: Broadcast: ~~Epiphany~~ has joined.
+2021-11-04 15:07:11 - ProxyLog: INFO: [AutoTeam] Set ~~Epiphany~~'s team to Pink.
+2021-11-04 15:12:36 - ProxyLog: INFO: Server executed: /reload.
+2021-11-04 15:12:36 - ProxyLog: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 15:12:36 - ProxyLog: INFO: Reading config file
+2021-11-04 15:12:36 - ProxyLog: ERROR: Newtonsoft.Json.JsonReaderException: Error parsing boolean value. Path 'EndPoints[0].Channel_IDs', line 17, position 9.
+  at Newtonsoft.Json.JsonTextReader.ParseTrue () [0x00027] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.ParseValue () [0x00120] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0004c] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonReader.ReadAndMoveToContent () [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonReader.ReadForType (Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x00043] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016e] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x000dc] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00268] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x00161] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016e] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001be] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00268] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x00161] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000db] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at TerrariaChatRelay.Helpers.SimpleConfig`1[T].GetConfigurationsAt (System.String file) [0x00006] in <981d6721d62142f0899654e539f74606>:0 
+  at TerrariaChatRelay.Helpers.SimpleConfig`1[T].GetOrCreateConfiguration () [0x00023] in <981d6721d62142f0899654e539f74606>:0 
+  at TCRDiscord.Main.Init (System.Collections.Generic.List`1[T] Subscribers) [0x00005] in <ba4deb3ba3394297ac87ef9b950be9f1>:0 
+  at TerrariaChatRelay.TCRPlugin..ctor () [0x0000c] in <981d6721d62142f0899654e539f74606>:0 
+  at TCRDiscord.Main..ctor () [0x00000] in <ba4deb3ba3394297ac87ef9b950be9f1>:0 
+  at TCRTShock.TerrariaChatRelayTShock.OnReload (TShockAPI.Hooks.ReloadEventArgs reloadEventArgs) [0x0000b] in <41899c9b461945a1b858537ebb069e7b>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_ReloadEventArgs(TShockAPI.Hooks.ReloadEventArgs)
+  at TShockAPI.Hooks.GeneralHooks.OnReloadEvent (TShockAPI.TSPlayer ply) [0x00013] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Commands.Reload (TShockAPI.CommandArgs args) [0x00010] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Command.Run (System.String msg, System.Boolean silent, TShockAPI.TSPlayer ply, System.Collections.Generic.List`1[T] parms) [0x0001c] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-11-04 15:12:46 - ProxyLog: INFO: Server executed: /reload.
+2021-11-04 15:12:46 - ProxyLog: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 15:12:46 - ProxyLog: INFO: Reading config file
+2021-11-04 15:12:46 - ProxyLog: ERROR: Newtonsoft.Json.JsonReaderException: Error parsing boolean value. Path 'EndPoints[0].Channel_IDs', line 17, position 9.
+  at Newtonsoft.Json.JsonTextReader.ParseTrue () [0x00027] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.ParseValue () [0x00120] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0004c] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonReader.ReadAndMoveToContent () [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonReader.ReadForType (Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x00043] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016e] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x000dc] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00268] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x00161] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016e] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001be] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00268] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x00161] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000db] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at TerrariaChatRelay.Helpers.SimpleConfig`1[T].GetConfigurationsAt (System.String file) [0x00006] in <981d6721d62142f0899654e539f74606>:0 
+  at TerrariaChatRelay.Helpers.SimpleConfig`1[T].GetOrCreateConfiguration () [0x00023] in <981d6721d62142f0899654e539f74606>:0 
+  at TCRDiscord.Main.Init (System.Collections.Generic.List`1[T] Subscribers) [0x00005] in <ba4deb3ba3394297ac87ef9b950be9f1>:0 
+  at TerrariaChatRelay.TCRPlugin..ctor () [0x0000c] in <981d6721d62142f0899654e539f74606>:0 
+  at TCRDiscord.Main..ctor () [0x00000] in <ba4deb3ba3394297ac87ef9b950be9f1>:0 
+  at TCRTShock.TerrariaChatRelayTShock.OnReload (TShockAPI.Hooks.ReloadEventArgs reloadEventArgs) [0x0000b] in <41899c9b461945a1b858537ebb069e7b>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_ReloadEventArgs(TShockAPI.Hooks.ReloadEventArgs)
+  at TShockAPI.Hooks.GeneralHooks.OnReloadEvent (TShockAPI.TSPlayer ply) [0x00013] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Commands.Reload (TShockAPI.CommandArgs args) [0x00010] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Command.Run (System.String msg, System.Boolean silent, TShockAPI.TSPlayer ply, System.Collections.Generic.List`1[T] parms) [0x0001c] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-11-04 15:12:53 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 15:12:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 15:12:57 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 15:12:57 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 15:12:57 - ProxyLog: INFO: Broadcast: Server shutting down!
+2021-11-04 15:12:57 - ProxyLog: INFO: Broadcast: ~~Epiphany~~ has left.
+2021-11-04 15:12:57 - ProxyLog: INFO: ~~Epiphany~~ disconnected.
+2021-11-04 15:12:57 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 15:13:00 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 15:13:00 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)

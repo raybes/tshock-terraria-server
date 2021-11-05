@@ -1,0 +1,194 @@
+2021-10-22 02:01:59 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-22 02:01:59 - TShock: INFO: AutoSave Enabled
+2021-10-22 02:01:59 - TShock: INFO: Backups Enabled
+2021-10-22 02:01:59 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-22 02:01:59 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-22 02:01:59 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-22 02:03:40 - TShock: ERROR: !!! The server password in config.json was overridden by the interactive prompt and will be ignored.
+2021-10-22 02:03:40 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2021-10-22 02:03:40 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2021-10-22 02:03:40 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2021-10-22 02:03:40 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2021-10-22 02:03:40 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-22 02:03:40 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-22 02:03:40 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-22 02:06:34 - TextLog: INFO: whorsey (192.168.1.107) from 'guest' group joined. (1/8)
+2021-10-22 02:06:34 - Utils: INFO: Broadcast: whorsey has joined.
+2021-10-22 02:07:20 - Utils: INFO: whorsey executed: /setup 5194509.
+2021-10-22 02:09:07 - Utils: INFO: whorsey executed: /setup 5194509.
+2021-10-22 02:10:12 - Commands: INFO: whorsey added Account whorsey to group owner
+2021-10-22 02:10:31 - Commands: INFO: whorsey authenticated successfully as user: whorsey.
+2021-10-22 02:11:59 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:12:02 - Utils: INFO: Broadcast: World saved.
+2021-10-22 02:12:02 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.11.59Z.bak)
+2021-10-22 02:12:02 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.11.59Z.bak).
+2021-10-22 02:14:18 - Utils: INFO: whorsey executed: /setup.
+2021-10-22 02:16:26 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:18:11 - Utils: INFO: whorsey tried to execute /user add restuser1.
+2021-10-22 02:18:19 - Utils: INFO: whorsey executed: /sudo.
+2021-10-22 02:18:44 - Utils: INFO: whorsey executed: /sudo user add restapi restapipass311.
+2021-10-22 02:18:56 - Utils: INFO: whorsey executed: /sudo user.
+2021-10-22 02:19:04 - Utils: INFO: whorsey executed: /sudo /user.
+2021-10-22 02:19:20 - Utils: INFO: whorsey executed: /sudo /user add restapi restapipass311.
+2021-10-22 02:21:01 - Utils: INFO: whorsey tried to execute /user subcommands list.
+2021-10-22 02:21:21 - Utils: INFO: whorsey executed: /sudo /user add.
+2021-10-22 02:21:28 - Utils: INFO: whorsey tried to execute /user help.
+2021-10-22 02:21:36 - Utils: INFO: whorsey executed: /sudo /user help.
+2021-10-22 02:21:59 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:22:02 - Utils: INFO: Broadcast: World saved.
+2021-10-22 02:22:02 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.21.59Z.bak)
+2021-10-22 02:22:02 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.21.59Z.bak).
+2021-10-22 02:22:23 - Utils: INFO: whorsey tried to execute /user add restuser restuserpass311 default.
+2021-10-22 02:22:43 - Utils: INFO: whorsey executed: /sudo /user add restuser restuserpass311 default.
+2021-10-22 02:22:44 - Commands: INFO: whorsey added Account restuser to group default
+2021-10-22 02:25:12 - Utils: INFO: whorsey executed: /sudo /group add rest tshock.rest.*.
+2021-10-22 02:25:12 - Utils: INFO: whorsey executed: /group add rest tshock.rest.*.
+2021-10-22 02:26:27 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:27:46 - Utils: INFO: Broadcast: whorsey has left.
+2021-10-22 02:27:46 - TextLog: INFO: whorsey disconnected.
+2021-10-22 02:27:46 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:27:49 - Utils: INFO: Broadcast: World saved.
+2021-10-22 02:27:49 - SaveManager: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Wonderland.wld)
+2021-10-22 02:44:21 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:44:21 - GetDataHandlers: INFO: whorsey authenticated successfully as user whorsey.
+2021-10-22 02:44:21 - TextLog: INFO: whorsey (192.168.1.107) from 'owner' group joined. (1/8)
+2021-10-22 02:44:21 - Utils: INFO: Broadcast: whorsey has joined.
+2021-10-22 02:44:24 - Utils: INFO: Broadcast: World saved.
+2021-10-22 02:44:24 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.44.21Z.bak)
+2021-10-22 02:44:24 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.44.21Z.bak).
+2021-10-22 02:44:55 - Utils: INFO: whorsey executed: /group help.
+2021-10-22 02:47:12 - Utils: INFO: whorsey executed: /group parent rest admin.
+2021-10-22 02:47:29 - Utils: INFO: whorsey executed: /group listperm rest.
+2021-10-22 02:48:25 - TextLog: ERROR: A REST login from 76.233.226.37 was blocked as it currently has 5 rate-limit tokens and is at the RESTMaximumRequestsPerInterval threshold.
+2021-10-22 02:49:39 - Utils: INFO: whorsey tried to execute /user help.
+2021-10-22 02:49:47 - Utils: INFO: whorsey executed: /sudo /user help.
+2021-10-22 02:50:01 - Utils: INFO: whorsey tried to execute /user group restuser rest.
+2021-10-22 02:50:15 - Utils: INFO: whorsey executed: /sudo /user group restuser rest.
+2021-10-22 02:50:15 - Commands: INFO: whorsey changed account restuser to group rest.
+2021-10-22 02:53:01 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:54:21 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 02:54:24 - Utils: INFO: Broadcast: World saved.
+2021-10-22 02:54:24 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.54.21Z.bak)
+2021-10-22 02:54:24 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T02.54.21Z.bak).
+2021-10-22 03:03:01 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 03:04:18 - Utils: INFO: Broadcast: whorsey has left.
+2021-10-22 03:04:18 - TextLog: INFO: whorsey disconnected.
+2021-10-22 03:04:18 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 03:04:21 - Utils: INFO: Broadcast: World saved.
+2021-10-22 03:04:21 - SaveManager: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Wonderland.wld)
+2021-10-22 03:51:30 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 03:51:33 - Utils: INFO: Broadcast: World saved.
+2021-10-22 03:51:33 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T03.51.30Z.bak)
+2021-10-22 03:51:33 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T03.51.30Z.bak).
+2021-10-22 04:44:30 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 04:44:33 - Utils: INFO: Broadcast: World saved.
+2021-10-22 04:44:33 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T04.44.30Z.bak)
+2021-10-22 04:44:33 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T04.44.30Z.bak).
+2021-10-22 05:37:08 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 05:37:11 - Utils: INFO: Broadcast: World saved.
+2021-10-22 05:37:11 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T05.37.08Z.bak)
+2021-10-22 05:37:11 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T05.37.08Z.bak).
+2021-10-22 06:30:35 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 06:30:38 - Utils: INFO: Broadcast: World saved.
+2021-10-22 06:30:38 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T06.30.35Z.bak)
+2021-10-22 06:30:38 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T06.30.35Z.bak).
+2021-10-22 07:23:46 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 07:23:49 - Utils: INFO: Broadcast: World saved.
+2021-10-22 07:23:49 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T07.23.46Z.bak)
+2021-10-22 07:23:49 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T07.23.46Z.bak).
+2021-10-22 08:16:59 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 08:17:02 - Utils: INFO: Broadcast: World saved.
+2021-10-22 08:17:02 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T08.16.59Z.bak)
+2021-10-22 08:17:02 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T08.16.59Z.bak).
+2021-10-22 09:10:47 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 09:10:50 - Utils: INFO: Broadcast: World saved.
+2021-10-22 09:10:50 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T09.10.47Z.bak)
+2021-10-22 09:10:50 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T09.10.47Z.bak).
+2021-10-22 10:03:05 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 10:03:08 - Utils: INFO: Broadcast: World saved.
+2021-10-22 10:03:08 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T10.03.05Z.bak)
+2021-10-22 10:03:08 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T10.03.05Z.bak).
+2021-10-22 10:56:08 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 10:56:11 - Utils: INFO: Broadcast: World saved.
+2021-10-22 10:56:11 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T10.56.08Z.bak)
+2021-10-22 10:56:11 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T10.56.08Z.bak).
+2021-10-22 11:48:50 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 11:48:53 - Utils: INFO: Broadcast: World saved.
+2021-10-22 11:48:53 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T11.48.50Z.bak)
+2021-10-22 11:48:53 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T11.48.50Z.bak).
+2021-10-22 12:41:52 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 12:41:55 - Utils: INFO: Broadcast: World saved.
+2021-10-22 12:41:55 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T12.41.52Z.bak)
+2021-10-22 12:41:55 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T12.41.52Z.bak).
+2021-10-22 13:35:01 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 13:35:04 - Utils: INFO: Broadcast: World saved.
+2021-10-22 13:35:04 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T13.35.01Z.bak)
+2021-10-22 13:35:04 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T13.35.01Z.bak).
+2021-10-22 14:28:14 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 14:28:17 - Utils: INFO: Broadcast: World saved.
+2021-10-22 14:28:17 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T14.28.14Z.bak)
+2021-10-22 14:28:17 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T14.28.14Z.bak).
+2021-10-22 15:21:06 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 15:21:09 - Utils: INFO: Broadcast: World saved.
+2021-10-22 15:21:09 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T15.21.06Z.bak)
+2021-10-22 15:21:09 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T15.21.06Z.bak).
+2021-10-22 16:14:59 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 16:15:02 - Utils: INFO: Broadcast: World saved.
+2021-10-22 16:15:02 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T16.14.59Z.bak)
+2021-10-22 16:15:02 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T16.14.59Z.bak).
+2021-10-22 17:08:16 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 17:08:19 - Utils: INFO: Broadcast: World saved.
+2021-10-22 17:08:19 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T17.08.16Z.bak)
+2021-10-22 17:08:19 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T17.08.16Z.bak).
+2021-10-22 18:01:11 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 18:01:14 - Utils: INFO: Broadcast: World saved.
+2021-10-22 18:01:14 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T18.01.11Z.bak)
+2021-10-22 18:01:14 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T18.01.11Z.bak).
+2021-10-22 18:54:24 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 18:54:27 - Utils: INFO: Broadcast: World saved.
+2021-10-22 18:54:27 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T18.54.24Z.bak)
+2021-10-22 18:54:27 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T18.54.24Z.bak).
+2021-10-22 19:46:59 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 19:47:02 - Utils: INFO: Broadcast: World saved.
+2021-10-22 19:47:02 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T19.46.59Z.bak)
+2021-10-22 19:47:02 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T19.46.59Z.bak).
+2021-10-22 20:40:03 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 20:40:06 - Utils: INFO: Broadcast: World saved.
+2021-10-22 20:40:06 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T20.40.03Z.bak)
+2021-10-22 20:40:06 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T20.40.03Z.bak).
+2021-10-22 21:32:51 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 21:32:54 - Utils: INFO: Broadcast: World saved.
+2021-10-22 21:32:54 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T21.32.51Z.bak)
+2021-10-22 21:32:54 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T21.32.51Z.bak).
+2021-10-22 22:42:10 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 22:42:13 - Utils: INFO: Broadcast: World saved.
+2021-10-22 22:42:13 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T22.42.10Z.bak)
+2021-10-22 22:42:13 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T22.42.10Z.bak).
+2021-10-22 23:35:03 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 23:35:06 - Utils: INFO: Broadcast: World saved.
+2021-10-22 23:35:06 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T23.35.03Z.bak)
+2021-10-22 23:35:06 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-22T23.35.03Z.bak).
+2021-10-23 00:28:14 - Utils: INFO: Broadcast: Saving world...
+2021-10-23 00:28:17 - Utils: INFO: Broadcast: World saved.
+2021-10-23 00:28:17 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T00.28.14Z.bak)
+2021-10-23 00:28:17 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T00.28.14Z.bak).
+2021-10-23 01:20:59 - Utils: INFO: Broadcast: Saving world...
+2021-10-23 01:21:02 - Utils: INFO: Broadcast: World saved.
+2021-10-23 01:21:02 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T01.20.59Z.bak)
+2021-10-23 01:21:02 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T01.20.59Z.bak).
+2021-10-23 02:13:44 - Utils: INFO: Broadcast: Saving world...
+2021-10-23 02:13:47 - Utils: INFO: Broadcast: World saved.
+2021-10-23 02:13:47 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T02.13.44Z.bak)
+2021-10-23 02:13:47 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T02.13.44Z.bak).
+2021-10-23 03:06:54 - Utils: INFO: Broadcast: Saving world...
+2021-10-23 03:06:57 - Utils: INFO: Broadcast: World saved.
+2021-10-23 03:06:57 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T03.06.54Z.bak)
+2021-10-23 03:06:57 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T03.06.54Z.bak).
+2021-10-23 03:59:36 - Utils: INFO: Broadcast: Saving world...
+2021-10-23 03:59:39 - Utils: INFO: Broadcast: World saved.
+2021-10-23 03:59:39 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T03.59.36Z.bak)
+2021-10-23 03:59:39 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T03.59.36Z.bak).
+2021-10-23 04:51:58 - Utils: INFO: Broadcast: Saving world...
+2021-10-23 04:52:01 - Utils: INFO: Broadcast: World saved.
+2021-10-23 04:52:01 - SaveManager: INFO: World saved at (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T04.51.58Z.bak)
+2021-10-23 04:52:01 - BackupManager: INFO: World backed up (tshock/backups/Fluffy_Wonderland.wld.2021-10-23T04.51.58Z.bak).

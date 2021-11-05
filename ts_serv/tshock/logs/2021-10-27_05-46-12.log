@@ -1,0 +1,15 @@
+2021-10-27 05:46:12 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2021-10-27 05:46:13 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-27 05:46:13 - TShock: INFO: AutoSave Enabled
+2021-10-27 05:46:13 - TShock: INFO: Backups Enabled
+2021-10-27 05:46:13 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-27 05:46:13 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-27 05:46:13 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-27 05:46:46 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-27 05:46:46 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-27 05:46:46 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-27 05:47:50 - ProxyLog: INFO: Server executed: /exit.
+2021-10-27 05:47:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 05:47:53 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 05:47:53 - ProxyLog: INFO: World saved at (tshock/worlds/FluffyWonderland.wld)
+2021-10-27 05:47:53 - ProxyLog: INFO: Broadcast: Server shutting down!

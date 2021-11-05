@@ -1,0 +1,52 @@
+2021-11-03 06:37:48 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 06:37:48 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-03 06:37:48 - TShock: INFO: AutoSave Enabled
+2021-11-03 06:37:48 - TShock: INFO: Backups Enabled
+2021-11-03 06:37:48 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-03 06:37:48 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-03 06:37:48 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-03 06:53:36 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 14:37:26 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 14:49:26 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-03 14:49:26 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-03 14:49:26 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-03 14:52:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 14:52:26 - ProxyLog: INFO: purplemagic (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-03 14:52:26 - ProxyLog: INFO: Broadcast: purplemagic has joined.
+2021-11-03 14:52:27 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 14:52:27 - ProxyLog: INFO: World saved at (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T14.52.24Z.bak)
+2021-11-03 14:52:27 - ProxyLog: INFO: World backed up (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T14.52.24Z.bak).
+2021-11-03 14:53:28 - ProxyLog: INFO: purplemagic executed: /setup 1203765.
+2021-11-03 14:55:07 - ProxyLog: INFO: purplemagic added Account purplemagic to group owner
+2021-11-03 14:56:04 - ProxyLog: INFO: purplemagic authenticated successfully as user: purplemagic.
+2021-11-03 14:57:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 14:57:27 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 14:57:27 - ProxyLog: INFO: World saved at (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T14.57.24Z.bak)
+2021-11-03 14:57:27 - ProxyLog: INFO: World backed up (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T14.57.24Z.bak).
+2021-11-03 14:57:44 - ProxyLog: INFO: Broadcast: purplemagic has left.
+2021-11-03 14:57:44 - ProxyLog: INFO: purplemagic disconnected.
+2021-11-03 14:57:44 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 14:57:48 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 14:57:48 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/purple_fluff_wonderland.wld)
+2021-11-03 15:00:39 - ProxyLog: INFO: purplemagic authenticated successfully as user purplemagic.
+2021-11-03 15:00:40 - ProxyLog: INFO: purplemagic (192.168.1.107) from 'owner' group joined. (1/6)
+2021-11-03 15:00:40 - ProxyLog: INFO: Broadcast: purplemagic has joined.
+2021-11-03 15:00:48 - ProxyLog: INFO: purplemagic executed: /setup.
+2021-11-03 15:01:55 - ProxyLog: INFO: Broadcast: purplemagic has left.
+2021-11-03 15:01:55 - ProxyLog: INFO: purplemagic disconnected.
+2021-11-03 15:01:55 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 15:01:58 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 15:01:58 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/purple_fluff_wonderland.wld)
+2021-11-03 15:14:14 - ProxyLog: INFO: Server added Account Epiphany to group trustedadmin
+2021-11-03 15:14:17 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 15:14:20 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 15:14:20 - ProxyLog: INFO: World saved at (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T15.14.17Z.bak)
+2021-11-03 15:14:20 - ProxyLog: INFO: World backed up (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T15.14.17Z.bak).
+2021-11-03 15:17:15 - ProxyLog: INFO: Epiphany (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-03 15:17:15 - ProxyLog: INFO: Broadcast: Epiphany has joined.
+2021-11-03 15:18:42 - ProxyLog: INFO: Epiphany authenticated successfully as user: Epiphany.
+2021-11-03 15:19:17 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 15:19:20 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 15:19:20 - ProxyLog: INFO: World saved at (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T15.19.17Z.bak)
+2021-11-03 15:19:20 - ProxyLog: INFO: World backed up (tshock/backups/purple_fluff_wonderland.wld.2021-11-03T15.19.17Z.bak).
+2021-11-03 15:20:35 - ProxyLog: INFO: Broadcast: Saving world...

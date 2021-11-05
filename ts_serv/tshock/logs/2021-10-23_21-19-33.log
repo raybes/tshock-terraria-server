@@ -1,0 +1,22 @@
+2021-10-23 21:19:33 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-10-23 21:19:34 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-23 21:19:34 - TShock: INFO: AutoSave Enabled
+2021-10-23 21:19:34 - TShock: INFO: Backups Enabled
+2021-10-23 21:19:34 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-23 21:19:34 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-23 21:19:34 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-23 21:29:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-23 21:47:04 - ProxyLog: ERROR: !!! The server password in config.json was overridden by the interactive prompt and will be ignored.
+2021-10-23 21:47:04 - ProxyLog: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2021-10-23 21:47:04 - ProxyLog: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2021-10-23 21:47:04 - ProxyLog: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2021-10-23 21:47:04 - ProxyLog: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2021-10-23 21:47:04 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-23 21:47:04 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-23 21:47:04 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-23 21:47:47 - ProxyLog: INFO: Server executed: /group list.
+2021-10-23 21:48:00 - ProxyLog: INFO: Server executed: /exit.
+2021-10-23 21:48:00 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-23 21:48:04 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-23 21:48:04 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Wonderland2.wld)
+2021-10-23 21:48:04 - ProxyLog: INFO: Broadcast: Server shutting down!

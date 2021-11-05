@@ -1,0 +1,90 @@
+10/23/2021 7:50:22 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 7:57:31 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 7:58:57 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 9:17:32 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 9:18:10 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 9:19:04 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 9:55:57 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 9:58:12 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/23/2021 10:00:12 PM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+10/29/2021 2:22:00 AM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+11/3/2021 6:18:41 AM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+11/3/2021 6:19:24 AM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+11/3/2021 6:37:24 AM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+11/4/2021 2:26:57 AM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+
+11/4/2021 2:44:53 AM
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Main.WriteFancyWorldLoadErrorToConsole () [0x00005] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Main.DedServ () [0x00b76] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Program.LaunchGame (System.String[] args, System.Boolean monoArgs) [0x000ac] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+

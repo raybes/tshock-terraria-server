@@ -1,0 +1,44 @@
+2021-11-03 19:16:09 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 19:16:09 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-03 19:16:09 - TShock: INFO: AutoSave Enabled
+2021-11-03 19:16:09 - TShock: INFO: Backups Enabled
+2021-11-03 19:16:09 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-03 19:16:09 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-03 19:16:09 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-03 19:17:10 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-03 19:17:10 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-03 19:17:10 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-03 19:18:33 - ProxyLog: INFO: Server executed: /reload.
+2021-11-03 19:18:33 - ProxyLog: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 19:23:17 - ProxyLog: INFO: Server executed: /group add princess tshock.item.*.
+2021-11-03 19:25:26 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-11-03 19:25:44 - ProxyLog: INFO: Server executed: /group parent admin princess.
+2021-11-03 19:25:53 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-11-03 19:26:19 - ProxyLog: INFO: Server executed: /group parent princess admin.
+2021-11-03 19:26:34 - ProxyLog: INFO: Server executed: /group parent newadmin admin.
+2021-11-03 19:28:01 - ProxyLog: INFO: Server executed: /group parent newadmin vip.
+2021-11-03 19:28:24 - ProxyLog: INFO: Server executed: /group parent admin newadmin.
+2021-11-03 19:28:48 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-11-03 19:29:22 - ProxyLog: INFO: Server executed: /sudo /group listperm owner.
+2021-11-03 19:29:22 - ProxyLog: INFO: Server executed: /group listperm owner.
+2021-11-03 19:29:42 - ProxyLog: INFO: Server executed: /sudo /group listperm princess.
+2021-11-03 19:29:42 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-11-03 19:31:18 - ProxyLog: INFO: restuser311 tried to execute /group addperm trustedadmin ban.
+2021-11-03 19:31:19 - ProxyLog: INFO: restuser311 tried to execute /group addperm trustedadmin unban.
+2021-11-03 19:42:42 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 19:42:45 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 19:42:45 - ProxyLog: INFO: World saved at (tshock/backups/Purple_Fluff_ver2.wld.2021-11-03T19.42.42Z.bak)
+2021-11-03 19:42:45 - ProxyLog: INFO: World backed up (tshock/backups/Purple_Fluff_ver2.wld.2021-11-03T19.42.42Z.bak).
+2021-11-03 19:49:47 - ProxyLog: INFO: Server executed: /group add default tshock.account.* tshock.buff.* tshock.item.give tshock.journey.research tshock.npc.butcher tshock.npc.hurttown tshock.npc.rename tshock.npc.startinvasion tshock.npc.summonboss tshock.ssc.upload tshock.tp.self tshock.tp.spawn tshock.world.movenpc tshock.world.paint tshock.annoy tshock.canchat tshock.sendemoji tshock.slap tshock.thirdperson tshock.warp tshock.whisper.
+2021-11-03 19:50:17 - ProxyLog: INFO: Server executed: /group addperm default tshock.account.* tshock.buff.* tshock.item.give tshock.journey.research tshock.npc.butcher tshock.npc.hurttown tshock.npc.rename tshock.npc.startinvasion tshock.npc.summonboss tshock.ssc.upload tshock.tp.self tshock.tp.spawn tshock.world.movenpc tshock.world.paint tshock.annoy tshock.canchat tshock.sendemoji tshock.slap tshock.thirdperson tshock.warp tshock.whisper.
+2021-11-03 19:51:13 - ProxyLog: INFO: Server executed: /sudo /group listperm princess.
+2021-11-03 19:51:13 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-11-03 19:51:47 - ProxyLog: INFO: Server executed: /group addperm default tshock.account.* tshock.buff.* tshock.item.give tshock.journey.research tshock.npc.butcher tshock.npc.hurttown tshock.npc.rename tshock.npc.startinvasion tshock.npc.summonboss tshock.ssc.upload tshock.tp.self tshock.tp.spawn tshock.world.movenpc tshock.world.paint tshock.annoy tshock.canchat tshock.sendemoji tshock.slap tshock.thirdperson tshock.warp tshock.whisper.
+2021-11-03 19:52:08 - ProxyLog: INFO: Server executed: /group addperm princess tshock.account.* tshock.buff.* tshock.item.give tshock.journey.research tshock.npc.butcher tshock.npc.hurttown tshock.npc.rename tshock.npc.startinvasion tshock.npc.summonboss tshock.ssc.upload tshock.tp.self tshock.tp.spawn tshock.world.movenpc tshock.world.paint tshock.annoy tshock.canchat tshock.sendemoji tshock.slap tshock.thirdperson tshock.warp tshock.whisper.
+2021-11-03 19:52:19 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-11-03 19:52:55 - ProxyLog: INFO: Server executed: /group listperm default.
+2021-11-03 19:53:45 - ProxyLog: INFO: Server executed: /exit.
+2021-11-03 19:53:45 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 19:53:48 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 19:53:48 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple_Fluff_ver2.wld)
+2021-11-03 19:53:48 - ProxyLog: INFO: Broadcast: Server shutting down!

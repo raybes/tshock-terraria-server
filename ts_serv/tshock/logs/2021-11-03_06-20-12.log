@@ -1,0 +1,26 @@
+2021-11-03 06:20:12 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 06:20:12 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-03 06:20:12 - TShock: INFO: AutoSave Enabled
+2021-11-03 06:20:12 - TShock: INFO: Backups Enabled
+2021-11-03 06:20:12 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-03 06:20:12 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-03 06:20:12 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-03 06:21:03 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-03 06:21:03 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-03 06:21:03 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-03 06:25:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 06:25:17 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 06:25:17 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Journey.wld.2021-11-03T06.25.13Z.bak)
+2021-11-03 06:25:17 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Journey.wld.2021-11-03T06.25.13Z.bak).
+2021-11-03 06:28:21 - ProxyLog: INFO: purplemagic (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-03 06:28:21 - ProxyLog: INFO: Broadcast: purplemagic has joined.
+2021-11-03 06:28:58 - ProxyLog: INFO: Broadcast: purplemagic has left.
+2021-11-03 06:28:58 - ProxyLog: INFO: purplemagic disconnected.
+2021-11-03 06:28:58 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 06:29:01 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 06:29:01 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Journey.wld)
+2021-11-03 06:31:03 - ProxyLog: INFO: Server executed: /exit.
+2021-11-03 06:31:03 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 06:31:06 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 06:31:06 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Journey.wld)
+2021-11-03 06:31:06 - ProxyLog: INFO: Broadcast: Server shutting down!

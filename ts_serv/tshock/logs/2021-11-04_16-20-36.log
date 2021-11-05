@@ -1,0 +1,13 @@
+2021-11-04 16:20:36 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2021-11-04 16:20:36 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 16:20:37 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 16:20:37 - Rest: ERROR: Fatal Startup Exception
+2021-11-04 16:20:37 - Rest: ERROR: System.Net.Sockets.SocketException (0x80004005): Address already in use
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x00043] in <6d31bfae10584c6e9125db8b871d59ba>:0 
+  at System.Net.Sockets.TcpListener.Start (System.Int32 backlog) [0x00044] in <6d31bfae10584c6e9125db8b871d59ba>:0 
+  at HttpServer.HttpListener.Start (System.Int32 backLog) [0x00038] in <0bb72d76034a4517b7a1f3b62e0cc3e7>:0 
+  at Rests.Rest.Start () [0x0002f] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-11-04 16:20:37 - TextLog: ERROR: Invalid REST configuration: 
+You may already have a REST service bound to port 7778. 
+Please adjust your configuration and restart the server. 
+Press any key to exit.

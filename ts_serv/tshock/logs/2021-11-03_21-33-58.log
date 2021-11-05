@@ -1,0 +1,35 @@
+2021-11-03 21:33:58 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2021-11-03 21:33:58 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 21:33:58 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-03 21:33:58 - TShock: INFO: AutoSave Enabled
+2021-11-03 21:33:58 - TShock: INFO: Backups Enabled
+2021-11-03 21:33:58 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-03 21:33:58 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-03 21:33:58 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-03 22:02:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:03:09 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-03 22:03:09 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-03 22:03:09 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-03 22:03:36 - ProxyLog: INFO: Server executed: /group add epiphany tshock.accountinfo.* tshock.world.* tshock.tp.* tshock.admin.* tshock.npc.* tshock.item.spawn tshock.item.usebanned tshock.ssc.upload.others tshock.account.* tshock.buff.* tshock.item.give tshock.journey.research tshock.npc.butcher tshock.npc.hurttown tshock.npc.rename tshock.npc.startinvasion tshock.npc.summonboss tshock.ssc.upload  tshock.tp.self tshock.tp.spawn tshock.world.movenpc tshock.world.paint tshock.annoy tshock.canchat tshock.sendemoji tshock.slap tshock.thirdperson tshock.warp tshock.whisper tshock.clear tshock.godmode tshock.godmode.other tshock.heal tshock.kill tshock.info tshock.partychat tshock.projectiles.usebanned tshock.reservedslot tshock.tiles.usebanned .
+2021-11-03 22:03:53 - ProxyLog: INFO: Server executed: /group listperm epiphany.
+2021-11-03 22:24:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:24:28 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:24:28 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.24.24Z.bak)
+2021-11-03 22:24:28 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.24.24Z.bak).
+2021-11-03 22:32:27 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:32:27 - ProxyLog: INFO: purplemagic authenticated successfully as user purplemagic.
+2021-11-03 22:32:29 - ProxyLog: INFO: purplemagic (192.168.1.107) from 'owner' group joined. (1/6)
+2021-11-03 22:32:29 - ProxyLog: INFO: Broadcast: purplemagic has joined.
+2021-11-03 22:32:30 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:32:30 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.32.27Z.bak)
+2021-11-03 22:32:30 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.32.27Z.bak).
+2021-11-03 22:35:41 - ProxyLog: INFO: Server executed: /exit.
+2021-11-03 22:35:41 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:35:45 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:35:45 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 22:35:45 - ProxyLog: INFO: Broadcast: purplemagic has left.
+2021-11-03 22:35:45 - ProxyLog: INFO: Broadcast: Server shutting down!
+2021-11-03 22:35:45 - ProxyLog: INFO: purplemagic disconnected.
+2021-11-03 22:35:45 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:35:48 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:35:48 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)

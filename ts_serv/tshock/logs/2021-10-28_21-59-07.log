@@ -1,0 +1,20 @@
+2021-10-28 21:59:07 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-10-28 21:59:07 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-28 21:59:07 - TShock: INFO: AutoSave Enabled
+2021-10-28 21:59:07 - TShock: INFO: Backups Enabled
+2021-10-28 21:59:07 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-28 21:59:07 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-28 21:59:07 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-28 22:49:23 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-28 22:49:23 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-28 22:49:23 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-28 22:49:39 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-28 22:49:41 - ProxyLog: INFO: purple disconnected.
+2021-10-28 22:49:42 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-28 22:49:42 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Wonderland2.wld.2021-10-28T22.49.39Z.bak)
+2021-10-28 22:49:42 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Wonderland2.wld.2021-10-28T22.49.39Z.bak).
+2021-10-28 22:49:49 - ProxyLog: INFO: Server executed: /exit.
+2021-10-28 22:49:49 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-28 22:49:53 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-28 22:49:53 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Wonderland2.wld)
+2021-10-28 22:49:53 - ProxyLog: INFO: Broadcast: Server shutting down!

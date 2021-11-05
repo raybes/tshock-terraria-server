@@ -1,0 +1,250 @@
+2021-10-23 22:20:53 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-10-23 22:20:53 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-23 22:20:54 - TShock: INFO: AutoSave Enabled
+2021-10-23 22:20:54 - TShock: INFO: Backups Enabled
+2021-10-23 22:20:54 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-23 22:20:54 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-23 22:20:54 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-23 22:21:25 - ProxyLog: INFO: A password for this server was set in config.json and is being used.
+2021-10-23 22:21:25 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-23 22:21:25 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-23 22:21:25 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-23 22:28:06 - ProxyLog: INFO: Server executed: /group add princess tshock.item.give tshock.item.spawn.
+2021-10-23 22:28:43 - ProxyLog: INFO: Server executed: /group parent princess admin.
+2021-10-23 22:29:16 - ProxyLog: INFO: Server executed: /group listperm princess.
+2021-10-23 22:32:43 - ProxyLog: INFO: restuser tried to execute /group addperm rest tshock.rest.create.
+2021-10-23 23:15:19 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-23 23:15:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-23 23:15:22 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-23T23.15.19Z.bak)
+2021-10-23 23:15:22 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-23T23.15.19Z.bak).
+2021-10-24 00:08:38 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 00:08:41 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 00:08:41 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T00.08.38Z.bak)
+2021-10-24 00:08:41 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T00.08.38Z.bak).
+2021-10-24 01:02:01 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 01:02:04 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 01:02:04 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T01.02.01Z.bak)
+2021-10-24 01:02:04 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T01.02.01Z.bak).
+2021-10-24 01:56:11 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 01:56:14 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 01:56:14 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T01.56.11Z.bak)
+2021-10-24 01:56:14 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T01.56.11Z.bak).
+2021-10-24 02:50:07 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 02:50:10 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 02:50:10 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T02.50.07Z.bak)
+2021-10-24 02:50:10 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T02.50.07Z.bak).
+2021-10-24 03:44:31 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 03:44:34 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 03:44:34 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T03.44.31Z.bak)
+2021-10-24 03:44:34 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T03.44.31Z.bak).
+2021-10-24 04:21:35 - ProxyLog: WARNING: UpdateManager warning: System.OperationCanceledException: The operation was canceled.
+  at System.Net.Http.HttpClient.HandleFinishSendAsyncError (System.Exception e, System.Threading.CancellationTokenSource cts) [0x00053] in <cb2d63f4a79249f0b60abd72fff4c33f>:0 
+  at System.Net.Http.HttpClient.FinishSendAsyncBuffered (System.Threading.Tasks.Task`1[TResult] sendTask, System.Net.Http.HttpRequestMessage request, System.Threading.CancellationTokenSource cts, System.Boolean disposeCts) [0x00170] in <cb2d63f4a79249f0b60abd72fff4c33f>:0 
+  at TShockAPI.UpdateManager.ServerIsOutOfDateAsync () [0x00079] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.UpdateManager.UpdateCheckAsync (System.Object o) [0x00062] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.UpdateManager.CheckForUpdatesAsync (System.Object state) [0x00076] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-10-24 04:21:35 - ProxyLog: ERROR: Retrying in 5 minutes.
+2021-10-24 04:38:51 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 04:38:54 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 04:38:54 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T04.38.51Z.bak)
+2021-10-24 04:38:54 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T04.38.51Z.bak).
+2021-10-24 05:34:01 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 05:34:04 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 05:34:04 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T05.34.01Z.bak)
+2021-10-24 05:34:04 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T05.34.01Z.bak).
+2021-10-24 06:28:23 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 06:28:26 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 06:28:26 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T06.28.23Z.bak)
+2021-10-24 06:28:26 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T06.28.23Z.bak).
+2021-10-24 07:22:27 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 07:22:30 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 07:22:30 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T07.22.27Z.bak)
+2021-10-24 07:22:30 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T07.22.27Z.bak).
+2021-10-24 08:16:07 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 08:16:10 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 08:16:10 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T08.16.07Z.bak)
+2021-10-24 08:16:10 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T08.16.07Z.bak).
+2021-10-24 09:09:19 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 09:09:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 09:09:22 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T09.09.19Z.bak)
+2021-10-24 09:09:22 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T09.09.19Z.bak).
+2021-10-24 10:01:55 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 10:01:58 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 10:01:58 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T10.01.55Z.bak)
+2021-10-24 10:01:58 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T10.01.55Z.bak).
+2021-10-24 10:26:45 - ProxyLog: WARNING: UpdateManager warning: System.OperationCanceledException: The operation was canceled.
+  at System.Net.Http.HttpClient.HandleFinishSendAsyncError (System.Exception e, System.Threading.CancellationTokenSource cts) [0x00053] in <cb2d63f4a79249f0b60abd72fff4c33f>:0 
+  at System.Net.Http.HttpClient.FinishSendAsyncBuffered (System.Threading.Tasks.Task`1[TResult] sendTask, System.Net.Http.HttpRequestMessage request, System.Threading.CancellationTokenSource cts, System.Boolean disposeCts) [0x00170] in <cb2d63f4a79249f0b60abd72fff4c33f>:0 
+  at TShockAPI.UpdateManager.ServerIsOutOfDateAsync () [0x00079] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.UpdateManager.UpdateCheckAsync (System.Object o) [0x00062] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.UpdateManager.CheckForUpdatesAsync (System.Object state) [0x00076] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-10-24 10:26:45 - ProxyLog: ERROR: Retrying in 5 minutes.
+2021-10-24 10:54:38 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 10:54:41 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 10:54:41 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T10.54.38Z.bak)
+2021-10-24 10:54:41 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T10.54.38Z.bak).
+2021-10-24 11:46:54 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 11:46:57 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 11:46:57 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T11.46.54Z.bak)
+2021-10-24 11:46:57 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T11.46.54Z.bak).
+2021-10-24 12:40:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 12:40:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 12:40:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T12.40.05Z.bak)
+2021-10-24 12:40:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T12.40.05Z.bak).
+2021-10-24 13:01:52 - ProxyLog: WARNING: UpdateManager warning: System.OperationCanceledException: The operation was canceled.
+  at System.Net.Http.HttpClient.HandleFinishSendAsyncError (System.Exception e, System.Threading.CancellationTokenSource cts) [0x00053] in <cb2d63f4a79249f0b60abd72fff4c33f>:0 
+  at System.Net.Http.HttpClient.FinishSendAsyncBuffered (System.Threading.Tasks.Task`1[TResult] sendTask, System.Net.Http.HttpRequestMessage request, System.Threading.CancellationTokenSource cts, System.Boolean disposeCts) [0x00170] in <cb2d63f4a79249f0b60abd72fff4c33f>:0 
+  at TShockAPI.UpdateManager.ServerIsOutOfDateAsync () [0x00079] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.UpdateManager.UpdateCheckAsync (System.Object o) [0x00062] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.UpdateManager.CheckForUpdatesAsync (System.Object state) [0x00076] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-10-24 13:01:52 - ProxyLog: ERROR: Retrying in 5 minutes.
+2021-10-24 13:33:33 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 13:33:36 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 13:33:36 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T13.33.33Z.bak)
+2021-10-24 13:33:36 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T13.33.33Z.bak).
+2021-10-24 14:26:06 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 14:26:09 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 14:26:09 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T14.26.06Z.bak)
+2021-10-24 14:26:09 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T14.26.06Z.bak).
+2021-10-24 15:19:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 15:19:12 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 15:19:12 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T15.19.09Z.bak)
+2021-10-24 15:19:12 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T15.19.09Z.bak).
+2021-10-24 16:12:55 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 16:12:58 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 16:12:58 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T16.12.55Z.bak)
+2021-10-24 16:12:58 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T16.12.55Z.bak).
+2021-10-24 17:07:47 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 17:07:50 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 17:07:50 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T17.07.47Z.bak)
+2021-10-24 17:07:50 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T17.07.47Z.bak).
+2021-10-24 18:01:07 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 18:01:10 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 18:01:10 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T18.01.07Z.bak)
+2021-10-24 18:01:10 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T18.01.07Z.bak).
+2021-10-24 18:54:43 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 18:54:46 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 18:54:46 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T18.54.43Z.bak)
+2021-10-24 18:54:46 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T18.54.43Z.bak).
+2021-10-24 19:47:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 19:47:56 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 19:47:56 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T19.47.53Z.bak)
+2021-10-24 19:47:56 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T19.47.53Z.bak).
+2021-10-24 20:41:13 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 20:41:16 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 20:41:16 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T20.41.13Z.bak)
+2021-10-24 20:41:16 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T20.41.13Z.bak).
+2021-10-24 21:34:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 21:34:12 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 21:34:12 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T21.34.09Z.bak)
+2021-10-24 21:34:12 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T21.34.09Z.bak).
+2021-10-24 22:26:21 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 22:26:24 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 22:26:24 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T22.26.21Z.bak)
+2021-10-24 22:26:24 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T22.26.21Z.bak).
+2021-10-24 23:18:19 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-24 23:18:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-24 23:18:22 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-24T23.18.19Z.bak)
+2021-10-24 23:18:22 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-24T23.18.19Z.bak).
+2021-10-25 00:10:37 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 00:10:40 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 00:10:40 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T00.10.37Z.bak)
+2021-10-25 00:10:40 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T00.10.37Z.bak).
+2021-10-25 01:02:33 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 01:02:36 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 01:02:36 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T01.02.33Z.bak)
+2021-10-25 01:02:36 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T01.02.33Z.bak).
+2021-10-25 01:32:39 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 01:32:42 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 01:32:42 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T01.32.39Z.bak)
+2021-10-25 01:32:42 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T01.32.39Z.bak).
+2021-10-25 01:56:08 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 01:56:11 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 01:56:11 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T01.56.08Z.bak)
+2021-10-25 01:56:11 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T01.56.08Z.bak).
+2021-10-25 02:51:12 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 02:51:15 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 02:51:15 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T02.51.12Z.bak)
+2021-10-25 02:51:15 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T02.51.12Z.bak).
+2021-10-25 03:45:16 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 03:45:19 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 03:45:19 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T03.45.16Z.bak)
+2021-10-25 03:45:19 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T03.45.16Z.bak).
+2021-10-25 04:37:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 04:37:56 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 04:37:56 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T04.37.53Z.bak)
+2021-10-25 04:37:56 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T04.37.53Z.bak).
+2021-10-25 05:30:37 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 05:30:40 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 05:30:40 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T05.30.37Z.bak)
+2021-10-25 05:30:40 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T05.30.37Z.bak).
+2021-10-25 06:23:26 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 06:23:29 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 06:23:29 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T06.23.26Z.bak)
+2021-10-25 06:23:29 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T06.23.26Z.bak).
+2021-10-25 07:15:56 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 07:15:59 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 07:15:59 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T07.15.56Z.bak)
+2021-10-25 07:15:59 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T07.15.56Z.bak).
+2021-10-25 08:09:47 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 08:09:50 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 08:09:50 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T08.09.47Z.bak)
+2021-10-25 08:09:50 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T08.09.47Z.bak).
+2021-10-25 09:03:38 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 09:03:41 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 09:03:41 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T09.03.38Z.bak)
+2021-10-25 09:03:41 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T09.03.38Z.bak).
+2021-10-25 09:57:27 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 09:57:30 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 09:57:30 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T09.57.27Z.bak)
+2021-10-25 09:57:30 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T09.57.27Z.bak).
+2021-10-25 10:51:19 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 10:51:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 10:51:22 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T10.51.19Z.bak)
+2021-10-25 10:51:22 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T10.51.19Z.bak).
+2021-10-25 11:47:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 11:47:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 11:47:05 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T11.47.02Z.bak)
+2021-10-25 11:47:05 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T11.47.02Z.bak).
+2021-10-25 12:41:48 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 12:41:51 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 12:41:51 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T12.41.48Z.bak)
+2021-10-25 12:41:51 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T12.41.48Z.bak).
+2021-10-25 13:36:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 13:36:27 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 13:36:27 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T13.36.24Z.bak)
+2021-10-25 13:36:27 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T13.36.24Z.bak).
+2021-10-25 14:31:33 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 14:31:36 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 14:31:36 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T14.31.33Z.bak)
+2021-10-25 14:31:36 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T14.31.33Z.bak).
+2021-10-25 14:41:28 - ProxyLog: INFO: restuser executed: /say hi.
+2021-10-25 14:41:28 - ProxyLog: INFO: Broadcast: (Server Broadcast) hi
+2021-10-25 15:25:29 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 15:25:32 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 15:25:32 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T15.25.29Z.bak)
+2021-10-25 15:25:32 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T15.25.29Z.bak).
+2021-10-25 16:18:19 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 16:18:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 16:18:22 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T16.18.19Z.bak)
+2021-10-25 16:18:22 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T16.18.19Z.bak).
+2021-10-25 17:11:55 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 17:11:58 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 17:11:58 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T17.11.55Z.bak)
+2021-10-25 17:11:58 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T17.11.55Z.bak).
+2021-10-25 18:05:43 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 18:05:46 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 18:05:46 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T18.05.43Z.bak)
+2021-10-25 18:05:46 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T18.05.43Z.bak).
+2021-10-25 18:58:41 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 18:58:44 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 18:58:44 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T18.58.41Z.bak)
+2021-10-25 18:58:44 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T18.58.41Z.bak).
+2021-10-25 19:52:03 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 19:52:06 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 19:52:06 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T19.52.03Z.bak)
+2021-10-25 19:52:06 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T19.52.03Z.bak).
+2021-10-25 20:46:00 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-25 20:46:03 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-25 20:46:03 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-25T20.46.00Z.bak)
+2021-10-25 20:46:03 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-25T20.46.00Z.bak).

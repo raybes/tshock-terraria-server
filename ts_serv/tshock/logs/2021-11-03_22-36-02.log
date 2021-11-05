@@ -1,0 +1,99 @@
+2021-11-03 22:36:02 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 22:36:02 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-03 22:36:03 - TShock: INFO: AutoSave Enabled
+2021-11-03 22:36:03 - TShock: INFO: Backups Enabled
+2021-11-03 22:36:03 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-03 22:36:03 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-03 22:36:03 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-03 22:36:52 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-03 22:36:52 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-03 22:36:52 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-03 22:37:35 - ProxyLog: INFO: purplemagic authenticated successfully as user purplemagic.
+2021-11-03 22:37:36 - ProxyLog: INFO: purplemagic (192.168.1.107) from 'owner' group joined. (1/6)
+2021-11-03 22:37:36 - ProxyLog: INFO: Broadcast: purplemagic has joined.
+2021-11-03 22:41:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:41:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:41:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.41.02Z.bak)
+2021-11-03 22:41:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.41.02Z.bak).
+2021-11-03 22:42:33 - ProxyLog: INFO: Broadcast: purplemagic has left.
+2021-11-03 22:42:33 - ProxyLog: INFO: purplemagic disconnected.
+2021-11-03 22:42:33 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:42:36 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:42:36 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 22:42:39 - ProxyLog: INFO: Server executed: /reload.
+2021-11-03 22:42:39 - ProxyLog: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 22:42:52 - ProxyLog: INFO: ~Epiphany~ authenticated successfully as user ~Epiphany~.
+2021-11-03 22:42:53 - ProxyLog: INFO: ~Epiphany~ (192.168.1.107) from 'default' group joined. (1/6)
+2021-11-03 22:42:53 - ProxyLog: INFO: Broadcast: ~Epiphany~ has joined.
+2021-11-03 22:44:44 - ProxyLog: INFO: Server executed: /reload.
+2021-11-03 22:44:44 - ProxyLog: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 22:44:50 - ProxyLog: INFO: Broadcast: ~Epiphany~ has left.
+2021-11-03 22:44:50 - ProxyLog: INFO: ~Epiphany~ disconnected.
+2021-11-03 22:44:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:44:53 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:44:53 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 22:44:57 - ProxyLog: INFO: ~Epiphany~ authenticated successfully as user ~Epiphany~.
+2021-11-03 22:44:59 - ProxyLog: INFO: ~Epiphany~ (192.168.1.107) from 'default' group joined. (1/6)
+2021-11-03 22:44:59 - ProxyLog: INFO: Broadcast: ~Epiphany~ has joined.
+2021-11-03 22:46:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:46:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:46:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.46.02Z.bak)
+2021-11-03 22:46:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.46.02Z.bak).
+2021-11-03 22:47:59 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:51:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:51:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:51:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.51.02Z.bak)
+2021-11-03 22:51:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.51.02Z.bak).
+2021-11-03 22:53:12 - ProxyLog: INFO: Broadcast: ~Epiphany~ has left.
+2021-11-03 22:53:12 - ProxyLog: INFO: ~Epiphany~ disconnected.
+2021-11-03 22:53:12 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:53:16 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:53:16 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 22:53:31 - ProxyLog: INFO: ~Epiphany~ authenticated successfully as user ~Epiphany~.
+2021-11-03 22:53:32 - ProxyLog: INFO: ~Epiphany~ (192.168.1.107) from 'default' group joined. (1/6)
+2021-11-03 22:53:32 - ProxyLog: INFO: Broadcast: ~Epiphany~ has joined.
+2021-11-03 22:54:18 - ProxyLog: INFO: Broadcast: ~Epiphany~ has left.
+2021-11-03 22:54:18 - ProxyLog: INFO: ~Epiphany~ disconnected.
+2021-11-03 22:54:18 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:54:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:54:22 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 22:54:30 - ProxyLog: INFO: ~Epiphany~ authenticated successfully as user ~Epiphany~.
+2021-11-03 22:54:32 - ProxyLog: INFO: ~Epiphany~ (192.168.1.107) from 'default' group joined. (1/6)
+2021-11-03 22:54:32 - ProxyLog: INFO: Broadcast: ~Epiphany~ has joined.
+2021-11-03 22:56:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 22:56:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 22:56:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.56.02Z.bak)
+2021-11-03 22:56:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T22.56.02Z.bak).
+2021-11-03 22:58:29 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:01:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:01:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:01:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.01.02Z.bak)
+2021-11-03 23:01:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.01.02Z.bak).
+2021-11-03 23:06:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:06:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:06:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.06.02Z.bak)
+2021-11-03 23:06:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.06.02Z.bak).
+2021-11-03 23:08:29 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:11:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:11:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:11:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.11.02Z.bak)
+2021-11-03 23:11:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.11.02Z.bak).
+2021-11-03 23:16:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:16:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:16:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.16.02Z.bak)
+2021-11-03 23:16:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.16.02Z.bak).
+2021-11-03 23:18:29 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:21:02 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:21:05 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:21:05 - ProxyLog: INFO: World saved at (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.21.02Z.bak)
+2021-11-03 23:21:05 - ProxyLog: INFO: World backed up (tshock/backups/Fluffy_Purple_10yrjourney.wld.2021-11-03T23.21.02Z.bak).
+2021-11-03 23:21:09 - ProxyLog: INFO: Broadcast: ~Epiphany~ has left.
+2021-11-03 23:21:09 - ProxyLog: INFO: ~Epiphany~ disconnected.
+2021-11-03 23:21:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:21:13 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:21:13 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 23:22:37 - ProxyLog: INFO: Server executed: /exit.
+2021-11-03 23:22:37 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 23:22:41 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 23:22:41 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Purple_10yrjourney.wld)
+2021-11-03 23:22:41 - ProxyLog: INFO: Broadcast: Server shutting down!

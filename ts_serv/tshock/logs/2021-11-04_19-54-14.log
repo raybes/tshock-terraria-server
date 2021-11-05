@@ -1,0 +1,30 @@
+2021-11-04 19:54:14 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 19:54:14 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 19:54:14 - TShock: INFO: AutoSave Enabled
+2021-11-04 19:54:14 - TShock: INFO: Backups Enabled
+2021-11-04 19:54:14 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 19:54:14 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 19:54:14 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 19:54:14 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 19:54:14 - Config: INFO: Reading config file
+2021-11-04 19:54:57 - TShock: INFO: Interrupt received. Saving the world and shutting down.
+2021-11-04 19:54:57 - SaveManager: ERROR: World saved notification failed
+2021-11-04 19:54:57 - SaveManager: ERROR: System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.Net.NetManager.Broadcast (Terraria.Net.NetPacket packet, Terraria.Net.NetManager+BroadcastCondition conditionToBroadcast, System.Int32 ignoreClient) [0x00008] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Chat.ChatHelper.BroadcastChatMessageAs (System.Byte messageAuthor, Terraria.Localization.NetworkText text, Microsoft.Xna.Framework.Color color, System.Int32 excludedPlayer) [0x00009] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Chat.ChatHelper.BroadcastChatMessageDirect (Terraria.Localization.NetworkText text, Microsoft.Xna.Framework.Color color, System.Int32 excludedPlayer) [0x00000] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Chat.ChatHelper.BroadcastChatMessage (Terraria.Localization.NetworkText text, Microsoft.Xna.Framework.Color color, System.Int32 excludedPlayer) [0x00014] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at TShockAPI.TSPlayer.SendMessage (System.String msg, System.Byte red, System.Byte green, System.Byte blue) [0x00055] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Utils.Broadcast (System.String msg, System.Byte red, System.Byte green, System.Byte blue) [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Utils.Broadcast (System.String msg, Microsoft.Xna.Framework.Color color) [0x00017] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.SaveManager.OnSaveWorld (TerrariaApi.Server.WorldSaveEventArgs args) [0x00020] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-11-04 19:54:57 - SaveManager: ERROR: World saved failed
+2021-11-04 19:54:57 - SaveManager: ERROR: System.NullReferenceException: Object reference not set to an instance of an object
+  at Terraria.IO.WorldFile.SaveFileFormatHeader (System.IO.BinaryWriter writer) [0x00014] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.IO.WorldFile.SaveWorld_Version2 (System.IO.BinaryWriter writer) [0x00008] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.IO.WorldFile.InternalSaveWorld (System.Boolean useCloudSaving, System.Boolean resetTime) [0x00055] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.IO.WorldFile+<>c__DisplayClass57_0.<SaveWorld>b__0 () [0x00000] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.Utilities.FileUtilities.ProtectedInvoke (System.Action action) [0x00016] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.IO.WorldFile.SaveWorldDirect (System.Boolean useCloudSaving, System.Boolean resetTime) [0x00066] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at Terraria.IO.WorldFile.SaveWorld (System.Boolean useCloudSaving, System.Boolean resetTime) [0x00010] in <13c7103e4994467dac3b7e479ef8edf5>:0 
+  at TShockAPI.SaveManager.SaveWorker () [0x0005e] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 

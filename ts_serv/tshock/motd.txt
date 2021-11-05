@@ -1,0 +1,10 @@
+Welcome!~ You've arrived at [c/990099:%map%] on [c/7ddff8:T][c/81dbf6:S][c/86d7f4:h][c/8ad3f3:>
+
+New here? Just press Enter and input [c/cc0000:/register <password>] and then [c/cc0000:/login <password>] to join and play!>
+
+Type [c/cc0000:%specifier%help] for a list of commands.
+Type [c/cc0000:%specifier%help] for a list of commands.
+
+[c/990099:Server Players Online: (%onlineplayers%/%serverslots%):] [c/990099:%players%]
+
+

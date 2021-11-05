@@ -1,0 +1,186 @@
+2021-10-27 05:53:09 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-10-27 05:53:09 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-27 05:53:09 - TShock: INFO: AutoSave Enabled
+2021-10-27 05:53:09 - TShock: INFO: Backups Enabled
+2021-10-27 05:53:09 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-27 05:53:09 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-27 05:53:09 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-27 05:53:40 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-27 05:53:40 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-27 05:53:40 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-27 05:53:55 - ProxyLog: INFO: whorsey authenticated successfully as user whorsey.
+2021-10-27 05:53:55 - ProxyLog: INFO: whorsey (192.168.1.107) from 'owner' group joined. (1/8)
+2021-10-27 05:53:55 - ProxyLog: INFO: Broadcast: whorsey has joined.
+2021-10-27 05:55:05 - ProxyLog: INFO: FluffButt (73.46.43.158) from 'guest' group joined. (2/8)
+2021-10-27 05:55:05 - ProxyLog: INFO: Broadcast: FluffButt has joined.
+2021-10-27 05:55:24 - ProxyLog: INFO: Broadcast: whorsey: enter is chat
+2021-10-27 05:55:31 - ProxyLog: INFO: Broadcast: whorsey: esc opens inventory
+2021-10-27 05:55:46 - ProxyLog: INFO: Broadcast: whorsey: press numbers to change between things on that bar
+2021-10-27 05:55:54 - ProxyLog: INFO: Broadcast: whorsey: oh shit
+2021-10-27 05:56:08 - ProxyLog: INFO: Broadcast: whorsey: type /register password
+2021-10-27 05:57:09 - ProxyLog: INFO: whorsey executed: /help register.
+2021-10-27 05:57:21 - ProxyLog: INFO: whorsey executed: /help /register.
+2021-10-27 05:57:27 - ProxyLog: INFO: whorsey failed to register an existing account: whorsey
+2021-10-27 05:58:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 05:58:12 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 05:58:12 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T05.58.09Z.bak)
+2021-10-27 05:58:12 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T05.58.09Z.bak).
+2021-10-27 06:00:34 - ProxyLog: INFO: FluffButt registered an account: "FluffButt".
+2021-10-27 06:01:50 - ProxyLog: INFO: FluffButt authenticated successfully as user: FluffButt.
+2021-10-27 06:03:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 06:03:10 - ProxyLog: INFO: Broadcast: whorsey: omg these gballoon things are new
+2021-10-27 06:03:11 - ProxyLog: INFO: Broadcast: whorsey: lol
+2021-10-27 06:03:12 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 06:03:12 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T06.03.09Z.bak)
+2021-10-27 06:03:12 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T06.03.09Z.bak).
+2021-10-27 06:03:47 - ProxyLog: INFO: Broadcast: whorsey: get pumpkin]
+2021-10-27 06:03:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 06:04:44 - ProxyLog: INFO: Broadcast: whorsey: tin
+2021-10-27 06:05:26 - ProxyLog: INFO: Broadcast: whorsey: we need pumpkin tho
+2021-10-27 06:05:32 - ProxyLog: INFO: Broadcast: whorsey: for the first equipment
+2021-10-27 06:05:44 - ProxyLog: INFO: Broadcast: whorsey: special for halloween
+2021-10-27 06:05:57 - ProxyLog: INFO: Broadcast: FluffButt: what
+2021-10-27 06:05:59 - ProxyLog: INFO: Broadcast: whorsey: those are just rocks dont need those
+2021-10-27 06:06:08 - ProxyLog: INFO: Broadcast: whorsey: we can make basic armor from pumpkins
+2021-10-27 06:06:42 - ProxyLog: INFO: Broadcast: FluffButt: i have 18 pumpkins
+2021-10-27 06:07:02 - ProxyLog: INFO: Broadcast: whorsey: look
+2021-10-27 06:07:08 - ProxyLog: INFO: Broadcast: whorsey: you need to build a workbench
+2021-10-27 06:07:15 - ProxyLog: INFO: Broadcast: whorsey: if you press esc
+2021-10-27 06:07:25 - ProxyLog: INFO: Broadcast: whorsey: on the left under inventory is what you can craft
+2021-10-27 06:07:34 - ProxyLog: INFO: Broadcast: whorsey: but you need to be at certain crafting stations
+2021-10-27 06:07:38 - ProxyLog: INFO: Broadcast: whorsey: for many things
+2021-10-27 06:08:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 06:08:09 - ProxyLog: INFO: Broadcast: FluffButt: how do i craft
+2021-10-27 06:08:12 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 06:08:12 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T06.08.09Z.bak)
+2021-10-27 06:08:12 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T06.08.09Z.bak).
+2021-10-27 06:08:22 - ProxyLog: INFO: Broadcast: whorsey: esc, find it in the list on the left, and click it
+2021-10-27 06:08:32 - ProxyLog: INFO: Broadcast: whorsey: be near the bench
+2021-10-27 06:08:44 - ProxyLog: INFO: Broadcast: whorsey: and it will show at least the pumpkin helmet
+2021-10-27 06:08:48 - ProxyLog: INFO: Broadcast: whorsey: i still need pants
+2021-10-27 06:10:46 - ProxyLog: INFO: Broadcast: whorsey: use pickaxe
+2021-10-27 06:11:04 - ProxyLog: INFO: Broadcast: whorsey: trees axe
+2021-10-27 06:11:20 - ProxyLog: INFO: Broadcast: whorsey: some pumpkins need pickaxe
+2021-10-27 06:11:34 - ProxyLog: INFO: Broadcast: FluffButt: ima go to bed
+2021-10-27 06:11:42 - ProxyLog: INFO: Broadcast: whorsey: aw yeah is late
+2021-10-27 06:12:01 - ProxyLog: INFO: Broadcast: FluffButt has left.
+2021-10-27 06:12:01 - ProxyLog: INFO: FluffButt disconnected.
+2021-10-27 06:12:16 - ProxyLog: INFO: Broadcast: whorsey has left.
+2021-10-27 06:12:16 - ProxyLog: INFO: whorsey disconnected.
+2021-10-27 06:12:16 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 06:12:19 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 06:12:19 - ProxyLog: INFO: World saved at (tshock/worlds/FluffyWonderland.wld)
+2021-10-27 14:46:06 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 14:46:09 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 14:46:09 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T14.46.06Z.bak)
+2021-10-27 14:46:09 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T14.46.06Z.bak).
+2021-10-27 15:39:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:39:14 - ProxyLog: INFO: whorsey authenticated successfully as user whorsey.
+2021-10-27 15:39:15 - ProxyLog: INFO: whorsey (192.168.1.107) from 'owner' group joined. (1/8)
+2021-10-27 15:39:15 - ProxyLog: INFO: Broadcast: whorsey has joined.
+2021-10-27 15:39:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 15:39:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T15.39.14Z.bak)
+2021-10-27 15:39:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T15.39.14Z.bak).
+2021-10-27 15:40:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:44:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:44:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 15:44:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T15.44.14Z.bak)
+2021-10-27 15:44:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T15.44.14Z.bak).
+2021-10-27 15:49:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:49:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 15:49:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T15.49.14Z.bak)
+2021-10-27 15:49:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T15.49.14Z.bak).
+2021-10-27 15:50:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:54:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:54:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 15:54:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T15.54.14Z.bak)
+2021-10-27 15:54:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T15.54.14Z.bak).
+2021-10-27 15:59:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 15:59:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 15:59:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T15.59.14Z.bak)
+2021-10-27 15:59:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T15.59.14Z.bak).
+2021-10-27 16:00:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:04:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:04:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:04:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.04.14Z.bak)
+2021-10-27 16:04:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.04.14Z.bak).
+2021-10-27 16:09:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:09:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:09:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.09.15Z.bak)
+2021-10-27 16:09:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.09.15Z.bak).
+2021-10-27 16:10:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:14:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:14:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:14:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.14.15Z.bak)
+2021-10-27 16:14:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.14.15Z.bak).
+2021-10-27 16:19:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:19:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:19:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.19.15Z.bak)
+2021-10-27 16:19:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.19.15Z.bak).
+2021-10-27 16:20:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:24:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:24:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:24:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.24.15Z.bak)
+2021-10-27 16:24:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.24.15Z.bak).
+2021-10-27 16:29:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:29:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:29:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.29.15Z.bak)
+2021-10-27 16:29:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.29.15Z.bak).
+2021-10-27 16:30:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:34:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:34:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:34:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.34.15Z.bak)
+2021-10-27 16:34:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.34.15Z.bak).
+2021-10-27 16:39:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:39:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:39:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.39.15Z.bak)
+2021-10-27 16:39:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.39.15Z.bak).
+2021-10-27 16:40:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:44:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:44:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:44:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.44.15Z.bak)
+2021-10-27 16:44:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.44.15Z.bak).
+2021-10-27 16:49:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:49:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:49:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.49.15Z.bak)
+2021-10-27 16:49:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.49.15Z.bak).
+2021-10-27 16:50:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:54:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:54:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:54:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.54.15Z.bak)
+2021-10-27 16:54:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.54.15Z.bak).
+2021-10-27 16:59:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 16:59:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 16:59:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T16.59.15Z.bak)
+2021-10-27 16:59:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T16.59.15Z.bak).
+2021-10-27 17:00:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:04:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:04:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 17:04:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T17.04.15Z.bak)
+2021-10-27 17:04:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T17.04.15Z.bak).
+2021-10-27 17:09:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:09:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 17:09:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T17.09.15Z.bak)
+2021-10-27 17:09:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T17.09.15Z.bak).
+2021-10-27 17:10:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:14:15 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:14:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 17:14:18 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T17.14.15Z.bak)
+2021-10-27 17:14:18 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T17.14.15Z.bak).
+2021-10-27 17:16:57 - ProxyLog: INFO: Broadcast: whorsey has left.
+2021-10-27 17:16:57 - ProxyLog: INFO: whorsey disconnected.
+2021-10-27 17:16:57 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:17:00 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 17:17:00 - ProxyLog: INFO: World saved at (tshock/worlds/FluffyWonderland.wld)
+2021-10-27 17:29:23 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 17:29:26 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 17:29:26 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T17.29.23Z.bak)
+2021-10-27 17:29:26 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T17.29.23Z.bak).
+2021-10-27 18:24:25 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 18:24:28 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 18:24:28 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T18.24.25Z.bak)
+2021-10-27 18:24:28 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T18.24.25Z.bak).
+2021-10-27 19:17:51 - ProxyLog: INFO: Broadcast: Saving world...
+2021-10-27 19:17:54 - ProxyLog: INFO: Broadcast: World saved.
+2021-10-27 19:17:54 - ProxyLog: INFO: World saved at (tshock/backups/FluffyWonderland.wld.2021-10-27T19.17.51Z.bak)
+2021-10-27 19:17:54 - ProxyLog: INFO: World backed up (tshock/backups/FluffyWonderland.wld.2021-10-27T19.17.51Z.bak).

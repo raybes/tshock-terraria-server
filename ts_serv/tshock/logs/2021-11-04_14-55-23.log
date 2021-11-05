@@ -1,0 +1,26 @@
+2021-11-04 14:55:23 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 14:55:23 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 14:55:24 - TShock: INFO: AutoSave Enabled
+2021-11-04 14:55:24 - TShock: INFO: Backups Enabled
+2021-11-04 14:55:24 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 14:55:24 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 14:55:24 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 14:55:24 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 14:55:24 - Config: INFO: Reading config file
+2021-11-04 14:55:56 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 14:55:56 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 14:55:56 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 15:00:41 - ProxyLog: INFO: ~~Epiphany~~ authenticated successfully as user ~~Epiphany~~.
+2021-11-04 15:00:43 - ProxyLog: INFO: ~~Epiphany~~ (192.168.1.107) from 'epiphany' group joined. (1/6)
+2021-11-04 15:00:43 - ProxyLog: INFO: Broadcast: ~~Epiphany~~ has joined.
+2021-11-04 15:00:43 - ProxyLog: INFO: [AutoTeam] Set ~~Epiphany~~'s team to Pink.
+2021-11-04 15:01:37 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 15:01:37 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 15:01:40 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 15:01:40 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 15:01:40 - ProxyLog: INFO: Broadcast: Server shutting down!
+2021-11-04 15:01:40 - ProxyLog: INFO: Broadcast: ~~Epiphany~~ has left.
+2021-11-04 15:01:40 - ProxyLog: INFO: ~~Epiphany~~ disconnected.
+2021-11-04 15:01:40 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 15:01:43 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 15:01:43 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)

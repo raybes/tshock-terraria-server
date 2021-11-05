@@ -1,0 +1,36 @@
+2021-11-04 04:44:26 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 04:44:26 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 04:44:26 - TShock: INFO: AutoSave Enabled
+2021-11-04 04:44:26 - TShock: INFO: Backups Enabled
+2021-11-04 04:44:26 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 04:44:26 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 04:44:26 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 04:44:26 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 04:44:26 - Config: INFO: Reading config file
+2021-11-04 04:44:58 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 04:44:58 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 04:44:58 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 04:45:46 - ProxyLog: INFO: gggg (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-04 04:45:46 - ProxyLog: INFO: Broadcast: gggg has joined.
+2021-11-04 04:45:46 - ProxyLog: INFO: [AutoTeam] Set gggg's team to Pink.
+2021-11-04 04:46:09 - ProxyLog: INFO: gggg registered an account: "gggg".
+2021-11-04 04:46:17 - ProxyLog: INFO: gggg authenticated successfully as user: gggg.
+2021-11-04 04:46:33 - ProxyLog: INFO: Broadcast: gggg has left.
+2021-11-04 04:46:33 - ProxyLog: INFO: gggg disconnected.
+2021-11-04 04:46:33 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:46:37 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:46:37 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:47:46 - ProxyLog: INFO: gggg authenticated successfully as user gggg.
+2021-11-04 04:47:47 - ProxyLog: INFO: gggg (192.168.1.107) from 'default' group joined. (1/6)
+2021-11-04 04:47:47 - ProxyLog: INFO: Broadcast: gggg has joined.
+2021-11-04 04:47:47 - ProxyLog: INFO: [AutoTeam] Set gggg's team to Pink.
+2021-11-04 04:47:56 - ProxyLog: INFO: Broadcast: gggg has left.
+2021-11-04 04:47:56 - ProxyLog: INFO: gggg disconnected.
+2021-11-04 04:47:56 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:48:00 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:48:00 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:48:08 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 04:48:08 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:48:11 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:48:11 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:48:11 - ProxyLog: INFO: Broadcast: Server shutting down!

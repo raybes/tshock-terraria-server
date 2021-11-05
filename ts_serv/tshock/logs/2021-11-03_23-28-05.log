@@ -1,0 +1,26 @@
+2021-11-03 23:28:05 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-03 23:28:06 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-03 23:28:06 - TShock: INFO: AutoSave Enabled
+2021-11-03 23:28:06 - TShock: INFO: Backups Enabled
+2021-11-03 23:28:06 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-03 23:28:06 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-03 23:28:06 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-03 23:53:34 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 01:25:55 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 01:26:58 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 01:26:58 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 01:26:58 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 01:27:53 - ProxyLog: INFO: Server executed: /group addperm epiphany listpluginsplugin.listplugins.
+2021-11-04 01:29:27 - ProxyLog: INFO: Server executed: /group addperm owner listpluginsplugin.listplugins.
+2021-11-04 01:30:00 - ProxyLog: INFO: Server executed: /group addperm epiphany worldmapper.generatemap.
+2021-11-04 01:35:06 - ProxyLog: INFO: Server executed: /group color epiphany 148,0,211.
+2021-11-04 01:36:42 - ProxyLog: INFO: Server executed: /group color princess 255,0,255.
+2021-11-04 01:37:10 - ProxyLog: INFO: Server executed: /group color default 65,105,225.
+2021-11-04 01:37:51 - ProxyLog: INFO: Server executed: /group list.
+2021-11-04 01:38:09 - ProxyLog: INFO: Server executed: /group listperm restgroup.
+2021-11-04 01:39:03 - ProxyLog: INFO: Server executed: /group addperm restgroup tshock.admin.*.
+2021-11-04 01:40:52 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 01:40:52 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 01:40:55 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 01:40:55 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 01:40:55 - ProxyLog: INFO: Broadcast: Server shutting down!

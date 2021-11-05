@@ -1,0 +1,45 @@
+2021-11-04 04:19:24 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 04:19:24 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 04:19:24 - TShock: INFO: AutoSave Enabled
+2021-11-04 04:19:24 - TShock: INFO: Backups Enabled
+2021-11-04 04:19:24 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 04:19:24 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 04:19:24 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 04:19:24 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 04:19:24 - Config: INFO: Reading config file
+2021-11-04 04:19:56 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 04:19:56 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 04:19:56 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 04:20:22 - ProxyLog: INFO: bbbb (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-04 04:20:22 - ProxyLog: INFO: Broadcast: bbbb has joined.
+2021-11-04 04:20:22 - ProxyLog: INFO: [AutoTeam] Set bbbb's team to Pink.
+2021-11-04 04:21:11 - ProxyLog: INFO: bbbb registered an account: "bbbb".
+2021-11-04 04:21:17 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: bbbb.
+2021-11-04 04:21:44 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: bbbb.
+2021-11-04 04:22:07 - ProxyLog: INFO: bbbb authenticated successfully as user: bbbb.
+2021-11-04 04:28:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:28:27 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:28:27 - ProxyLog: INFO: World saved at (tshock/backups/Purple~Fluffy~Wonderland.wld.2021-11-04T04.28.24Z.bak)
+2021-11-04 04:28:27 - ProxyLog: INFO: World backed up (tshock/backups/Purple~Fluffy~Wonderland.wld.2021-11-04T04.28.24Z.bak).
+2021-11-04 04:29:07 - ProxyLog: INFO: Broadcast: bbbb has left.
+2021-11-04 04:29:07 - ProxyLog: INFO: bbbb disconnected.
+2021-11-04 04:29:07 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:29:10 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:29:10 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:29:26 - ProxyLog: INFO: fdag (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-04 04:29:26 - ProxyLog: INFO: Broadcast: fdag has joined.
+2021-11-04 04:29:27 - ProxyLog: INFO: [AutoTeam] Set fdag's team to Pink.
+2021-11-04 04:29:48 - ProxyLog: INFO: fdag registered an account: "fdag".
+2021-11-04 04:29:56 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: fdag.
+2021-11-04 04:30:01 - ProxyLog: INFO: fdag authenticated successfully as user: fdag.
+2021-11-04 04:30:39 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:31:27 - ProxyLog: INFO: Broadcast: fdag has left.
+2021-11-04 04:31:27 - ProxyLog: INFO: fdag disconnected.
+2021-11-04 04:31:27 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:31:31 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:31:31 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:32:09 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 04:32:09 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:32:12 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:32:12 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:32:12 - ProxyLog: INFO: Broadcast: Server shutting down!

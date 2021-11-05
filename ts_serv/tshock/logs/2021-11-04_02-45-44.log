@@ -1,0 +1,83 @@
+2021-11-04 02:45:44 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 02:45:45 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 02:45:45 - TShock: INFO: AutoSave Enabled
+2021-11-04 02:45:45 - TShock: INFO: Backups Enabled
+2021-11-04 02:45:45 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 02:45:45 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 02:45:45 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 02:45:45 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 02:45:45 - Config: INFO: Reading config file
+2021-11-04 02:46:28 - ProxyLog: INFO: Map generated and saved as ~Fluffy Purple Wonderland~_load_1635993977735.png
+2021-11-04 02:46:28 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 02:46:28 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 02:46:28 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 02:46:59 - ProxyLog: INFO: ~Epiphany~ authenticated successfully as user ~Epiphany~.
+2021-11-04 02:47:01 - ProxyLog: INFO: ~Epiphany~ (192.168.1.107) from 'epiphany' group joined. (1/6)
+2021-11-04 02:47:01 - ProxyLog: INFO: Broadcast: ~Epiphany~ has joined.
+2021-11-04 02:47:02 - ProxyLog: INFO: [AutoTeam] Set ~Epiphany~'s team to Red.
+2021-11-04 02:47:49 - ProxyLog: INFO: ~Epiphany~ executed: /help.
+2021-11-04 02:49:01 - ProxyLog: INFO: Broadcast: ~Epiphany~ has left.
+2021-11-04 02:49:01 - ProxyLog: INFO: ~Epiphany~ disconnected.
+2021-11-04 02:49:01 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 02:49:16 - ProxyLog: INFO: Map generated and saved as ~Fluffy Purple Wonderland~_save_1635994145618.png
+2021-11-04 02:49:16 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 02:49:16 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 02:50:54 - ProxyLog: INFO: ~epiphany~ (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-04 02:50:54 - ProxyLog: INFO: Broadcast: ~epiphany~ has joined.
+2021-11-04 02:50:54 - ProxyLog: INFO: [AutoTeam] Set ~epiphany~'s team to Red.
+2021-11-04 02:52:26 - ProxyLog: INFO: Server executed: /group delperm default tshock.journey.research.
+2021-11-04 02:54:44 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 02:54:59 - ProxyLog: INFO: Map generated and saved as ~Fluffy Purple Wonderland~_save_1635994488306.png
+2021-11-04 02:54:59 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 02:54:59 - ProxyLog: INFO: World saved at (tshock/backups/Purple~Fluffy~Wonderland.wld.2021-11-04T02.54.44Z.bak)
+2021-11-04 02:54:59 - ProxyLog: INFO: World backed up (tshock/backups/Purple~Fluffy~Wonderland.wld.2021-11-04T02.54.44Z.bak).
+2021-11-04 02:58:50 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 02:59:05 - ProxyLog: INFO: Map generated and saved as ~Fluffy Purple Wonderland~_save_1635994734480.png
+2021-11-04 03:01:16 - ProxyLog: INFO: Server executed: /group delperm default /reload.
+2021-11-04 03:01:35 - ProxyLog: INFO: Server executed: /reload.
+2021-11-04 03:01:35 - ProxyLog: ERROR: Newtonsoft.Json.JsonReaderException: Invalid property identifier character: {. Path 'Settings.StartingInventory[0]', line 10, position 2.
+  at Newtonsoft.Json.JsonTextReader.ParseProperty () [0x00077] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.ParseObject () [0x000d8] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x00053] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JContainer.ReadContentFrom (Newtonsoft.Json.JsonReader r, Newtonsoft.Json.Linq.JsonLoadSettings settings) [0x00226] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JContainer.ReadTokenFrom (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Linq.JsonLoadSettings options) [0x00030] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Linq.JsonLoadSettings settings) [0x0006a] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json, Newtonsoft.Json.Linq.JsonLoadSettings settings) [0x0000c] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at TShockAPI.FileTools.LoadConfigAndCheckForChanges[TSettings] (System.String json, System.Boolean& writeConfig) [0x0000f] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Configuration.ConfigFile`1[TSettings].ConvertJson (System.String json, System.Boolean& incompleteSettings) [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Configuration.ConfigFile`1[TSettings].Read (System.IO.Stream stream, System.Boolean& incompleteSettings) [0x0000e] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Configuration.ConfigFile`1[TSettings].Read (System.String path, System.Boolean& incompleteSettings) [0x0001f] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.FileTools.SetupConfig () [0x0008e] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Utils.Reload () [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Commands.Reload (TShockAPI.CommandArgs args) [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Command.Run (System.String msg, System.Boolean silent, TShockAPI.TSPlayer ply, System.Collections.Generic.List`1[T] parms) [0x0001c] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-11-04 03:01:37 - ProxyLog: INFO: Server executed: /reload.
+2021-11-04 03:01:37 - ProxyLog: ERROR: Newtonsoft.Json.JsonReaderException: Invalid property identifier character: {. Path 'Settings.StartingInventory[0]', line 10, position 2.
+  at Newtonsoft.Json.JsonTextReader.ParseProperty () [0x00077] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.ParseObject () [0x000d8] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x00053] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JContainer.ReadContentFrom (Newtonsoft.Json.JsonReader r, Newtonsoft.Json.Linq.JsonLoadSettings settings) [0x00226] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JContainer.ReadTokenFrom (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Linq.JsonLoadSettings options) [0x00030] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JObject.Load (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Linq.JsonLoadSettings settings) [0x0006a] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json, Newtonsoft.Json.Linq.JsonLoadSettings settings) [0x0000c] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at Newtonsoft.Json.Linq.JObject.Parse (System.String json) [0x00000] in <dc86da7fc46c487ba6c7ab826da479cc>:0 
+  at TShockAPI.FileTools.LoadConfigAndCheckForChanges[TSettings] (System.String json, System.Boolean& writeConfig) [0x0000f] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Configuration.ConfigFile`1[TSettings].ConvertJson (System.String json, System.Boolean& incompleteSettings) [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Configuration.ConfigFile`1[TSettings].Read (System.IO.Stream stream, System.Boolean& incompleteSettings) [0x0000e] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Configuration.ConfigFile`1[TSettings].Read (System.String path, System.Boolean& incompleteSettings) [0x0001f] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.FileTools.SetupConfig () [0x0008e] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Utils.Reload () [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Commands.Reload (TShockAPI.CommandArgs args) [0x00000] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+  at TShockAPI.Command.Run (System.String msg, System.Boolean silent, TShockAPI.TSPlayer ply, System.Collections.Generic.List`1[T] parms) [0x0001c] in <065233f06f4b4d35b19ce4b04b71cbfc>:0 
+2021-11-04 03:01:53 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 03:01:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 03:02:08 - ProxyLog: INFO: Map generated and saved as ~Fluffy Purple Wonderland~_save_1635994917513.png
+2021-11-04 03:02:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 03:02:08 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 03:02:08 - ProxyLog: INFO: Broadcast: Server shutting down!
+                                                                      2021-11-04 03:02:08 - ProxyLog: INFO: ~epiphany~ disconnected.
+2021-11-04 03:02:08 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 03:02:23 - ProxyLog: INFO: Map generated and saved as ~Fluffy Purple Wonderland~_save_1635994932284.png
+2021-11-04 03:02:23 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 03:02:23 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)

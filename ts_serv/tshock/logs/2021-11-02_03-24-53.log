@@ -1,0 +1,170 @@
+2021-11-02 03:24:53 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-02 03:24:54 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-02 03:24:54 - TShock: INFO: AutoSave Enabled
+2021-11-02 03:24:54 - TShock: INFO: Backups Enabled
+2021-11-02 03:24:54 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-02 03:24:54 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-02 03:24:54 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-02 03:25:25 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-02 03:25:25 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-02 03:25:25 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-02 04:21:41 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 04:21:44 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 04:21:44 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T04.21.40Z.bak)
+2021-11-02 04:21:44 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T04.21.40Z.bak).
+2021-11-02 05:13:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:13:05 - ProxyLog: INFO: purple authenticated successfully as user purple.
+2021-11-02 05:13:05 - ProxyLog: INFO: purple (192.168.1.107) from 'owner' group joined. (1/6)
+2021-11-02 05:13:05 - ProxyLog: INFO: Broadcast: purple has joined.
+2021-11-02 05:13:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 05:13:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T05.13.05Z.bak)
+2021-11-02 05:13:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T05.13.05Z.bak).
+2021-11-02 05:18:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:18:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 05:18:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T05.18.05Z.bak)
+2021-11-02 05:18:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T05.18.05Z.bak).
+2021-11-02 05:21:35 - ProxyLog: INFO: purple tried to execute /user subcommands list.
+2021-11-02 05:22:05 - ProxyLog: INFO: purple executed: /sudo user list.
+2021-11-02 05:22:26 - ProxyLog: INFO: purple executed: /sudo /user subcommands list.
+2021-11-02 05:22:32 - ProxyLog: INFO: purple tried to execute /user help.
+2021-11-02 05:22:40 - ProxyLog: INFO: purple executed: /sudo user help.
+2021-11-02 05:22:54 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:23:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:23:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 05:23:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T05.23.05Z.bak)
+2021-11-02 05:23:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T05.23.05Z.bak).
+2021-11-02 05:28:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:28:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 05:28:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T05.28.05Z.bak)
+2021-11-02 05:28:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T05.28.05Z.bak).
+2021-11-02 05:32:54 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:33:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:33:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 05:33:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T05.33.05Z.bak)
+2021-11-02 05:33:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T05.33.05Z.bak).
+2021-11-02 05:34:49 - ProxyLog: INFO: Broadcast: purple has left.
+2021-11-02 05:34:49 - ProxyLog: INFO: purple disconnected.
+2021-11-02 05:34:49 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 05:34:52 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 05:34:52 - ProxyLog: INFO: World saved at (tshock/worlds/FluffyJourney.wld)
+2021-11-02 06:09:32 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 06:09:35 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 06:09:35 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T06.09.32Z.bak)
+2021-11-02 06:09:35 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T06.09.32Z.bak).
+2021-11-02 07:02:22 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 07:02:25 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 07:02:25 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T07.02.22Z.bak)
+2021-11-02 07:02:25 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T07.02.22Z.bak).
+2021-11-02 07:55:31 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 07:55:35 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 07:55:35 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T07.55.31Z.bak)
+2021-11-02 07:55:35 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T07.55.31Z.bak).
+2021-11-02 08:48:20 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 08:48:24 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 08:48:24 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T08.48.20Z.bak)
+2021-11-02 08:48:24 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T08.48.20Z.bak).
+2021-11-02 09:42:03 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 09:42:07 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 09:42:07 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T09.42.03Z.bak)
+2021-11-02 09:42:07 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T09.42.03Z.bak).
+2021-11-02 10:37:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 10:37:27 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 10:37:27 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T10.37.24Z.bak)
+2021-11-02 10:37:27 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T10.37.24Z.bak).
+2021-11-02 11:32:00 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 11:32:03 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 11:32:03 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T11.32.00Z.bak)
+2021-11-02 11:32:03 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T11.32.00Z.bak).
+2021-11-02 12:26:32 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 12:26:35 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 12:26:35 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T12.26.32Z.bak)
+2021-11-02 12:26:35 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T12.26.32Z.bak).
+2021-11-02 13:20:13 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 13:20:16 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 13:20:16 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T13.20.13Z.bak)
+2021-11-02 13:20:16 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T13.20.13Z.bak).
+2021-11-02 14:14:29 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 14:14:32 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 14:14:32 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T14.14.29Z.bak)
+2021-11-02 14:14:32 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T14.14.29Z.bak).
+2021-11-02 15:08:46 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 15:08:50 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 15:08:50 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T15.08.46Z.bak)
+2021-11-02 15:08:50 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T15.08.46Z.bak).
+2021-11-02 16:03:03 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 16:03:07 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 16:03:07 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T16.03.03Z.bak)
+2021-11-02 16:03:07 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T16.03.03Z.bak).
+2021-11-02 16:55:05 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 16:55:08 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 16:55:08 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T16.55.05Z.bak)
+2021-11-02 16:55:08 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T16.55.05Z.bak).
+2021-11-02 17:38:24 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 17:38:25 - ProxyLog: INFO: purple (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-02 17:38:25 - ProxyLog: INFO: Broadcast: purple has joined.
+2021-11-02 17:38:27 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 17:38:27 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T17.38.24Z.bak)
+2021-11-02 17:38:27 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T17.38.24Z.bak).
+2021-11-02 17:38:47 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: purple.
+2021-11-02 17:38:56 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: purple.
+2021-11-02 17:39:11 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: purple.
+2021-11-02 17:39:29 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: purple.
+2021-11-02 17:39:35 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: purple.
+2021-11-02 17:39:43 - ProxyLog: WARNING: 192.168.1.107 failed to authenticate as user: purple.
+2021-11-02 17:39:52 - ProxyLog: INFO: Broadcast: purple has left.
+2021-11-02 17:39:52 - ProxyLog: INFO: purple disconnected.
+2021-11-02 17:39:52 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 17:39:55 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 17:39:55 - ProxyLog: INFO: World saved at (tshock/worlds/FluffyJourney.wld)
+2021-11-02 17:47:49 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 17:47:52 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 17:47:52 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T17.47.49Z.bak)
+2021-11-02 17:47:52 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T17.47.49Z.bak).
+2021-11-02 18:40:46 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 18:40:49 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 18:40:49 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T18.40.46Z.bak)
+2021-11-02 18:40:49 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T18.40.46Z.bak).
+2021-11-02 19:34:07 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 19:34:10 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 19:34:10 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T19.34.07Z.bak)
+2021-11-02 19:34:10 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T19.34.07Z.bak).
+2021-11-02 20:27:35 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 20:27:38 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 20:27:38 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T20.27.35Z.bak)
+2021-11-02 20:27:38 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T20.27.35Z.bak).
+2021-11-02 21:21:27 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 21:21:30 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 21:21:30 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T21.21.27Z.bak)
+2021-11-02 21:21:30 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T21.21.27Z.bak).
+2021-11-02 22:14:53 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 22:14:56 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 22:14:56 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T22.14.53Z.bak)
+2021-11-02 22:14:56 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T22.14.53Z.bak).
+2021-11-02 23:09:40 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-02 23:09:43 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-02 23:09:43 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-02T23.09.40Z.bak)
+2021-11-02 23:09:43 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-02T23.09.40Z.bak).
+2021-11-03 00:04:17 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 00:04:20 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 00:04:20 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-03T00.04.17Z.bak)
+2021-11-03 00:04:20 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-03T00.04.17Z.bak).
+2021-11-03 00:59:47 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 00:59:50 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 00:59:50 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-03T00.59.47Z.bak)
+2021-11-03 00:59:50 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-03T00.59.47Z.bak).
+2021-11-03 01:55:20 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 01:55:24 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 01:55:24 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-03T01.55.20Z.bak)
+2021-11-03 01:55:24 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-03T01.55.20Z.bak).
+2021-11-03 02:49:59 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 02:50:03 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 02:50:03 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-03T02.49.59Z.bak)
+2021-11-03 02:50:03 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-03T02.49.59Z.bak).
+2021-11-03 03:44:58 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 03:45:01 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 03:45:01 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-03T03.44.58Z.bak)
+2021-11-03 03:45:01 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-03T03.44.58Z.bak).
+2021-11-03 04:38:46 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-03 04:38:49 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-03 04:38:49 - ProxyLog: INFO: World saved at (tshock/backups/FluffyJourney.wld.2021-11-03T04.38.46Z.bak)
+2021-11-03 04:38:49 - ProxyLog: INFO: World backed up (tshock/backups/FluffyJourney.wld.2021-11-03T04.38.46Z.bak).

@@ -1,0 +1,19 @@
+2021-10-22 01:33:40 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-10-22 01:33:40 - TShock: INFO: AutoSave Enabled
+2021-10-22 01:33:40 - TShock: INFO: Backups Enabled
+2021-10-22 01:33:40 - TShock: INFO: Welcome to TShock for Terraria!
+2021-10-22 01:33:40 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-10-22 01:33:40 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-10-22 01:43:28 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 01:48:33 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2021-10-22 01:48:33 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2021-10-22 01:48:33 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2021-10-22 01:48:33 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2021-10-22 01:48:33 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-10-22 01:48:33 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-10-22 01:48:33 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-10-22 01:49:28 - Utils: INFO: Server executed: /exit.
+2021-10-22 01:49:28 - Utils: INFO: Broadcast: Saving world...
+2021-10-22 01:49:31 - Utils: INFO: Broadcast: World saved.
+2021-10-22 01:49:31 - SaveManager: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Fluffy_Wonderland.wld)
+2021-10-22 01:49:31 - Utils: INFO: Broadcast: Server shutting down!

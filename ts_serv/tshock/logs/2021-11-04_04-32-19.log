@@ -1,0 +1,32 @@
+2021-11-04 04:32:19 - <>c: INFO: Port overridden by startup argument. Set to 7779
+2021-11-04 04:32:19 - TextLog: INFO: TShock 4.5.5.0 (Olympics maybe?) now running.
+2021-11-04 04:32:19 - TShock: INFO: AutoSave Enabled
+2021-11-04 04:32:19 - TShock: INFO: Backups Enabled
+2021-11-04 04:32:19 - TShock: INFO: Welcome to TShock for Terraria!
+2021-11-04 04:32:19 - TShock: INFO: TShock comes with no warranty & is free software.
+2021-11-04 04:32:19 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2021-11-04 04:32:19 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2021-11-04 04:32:19 - Config: INFO: Reading config file
+2021-11-04 04:32:51 - ProxyLog: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2021-11-04 04:32:51 - ProxyLog: INFO: Login using UUID enabled. Users automatically login via UUID.
+2021-11-04 04:32:51 - ProxyLog: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2021-11-04 04:33:19 - ProxyLog: INFO: ccc (192.168.1.107) from 'guest' group joined. (1/6)
+2021-11-04 04:33:19 - ProxyLog: INFO: Broadcast: ccc has joined.
+2021-11-04 04:33:20 - ProxyLog: INFO: [AutoTeam] Set ccc's team to Pink.
+2021-11-04 04:33:43 - ProxyLog: INFO: ccc registered an account: "ccc".
+2021-11-04 04:33:49 - ProxyLog: INFO: ccc authenticated successfully as user: ccc.
+2021-11-04 04:41:19 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:41:22 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:41:22 - ProxyLog: INFO: World saved at (tshock/backups/Purple~Fluffy~Wonderland.wld.2021-11-04T04.41.19Z.bak)
+2021-11-04 04:41:22 - ProxyLog: INFO: World backed up (tshock/backups/Purple~Fluffy~Wonderland.wld.2021-11-04T04.41.19Z.bak).
+2021-11-04 04:43:17 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:44:10 - ProxyLog: INFO: Server executed: /exit.
+2021-11-04 04:44:10 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:44:14 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:44:14 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
+2021-11-04 04:44:14 - ProxyLog: INFO: Broadcast: Server shutting down!
+2021-11-04 04:44:14 - ProxyLog: INFO: Broadcast: ccc has left.
+2021-11-04 04:44:14 - ProxyLog: INFO: ccc disconnected.
+2021-11-04 04:44:14 - ProxyLog: INFO: Broadcast: Saving world...
+2021-11-04 04:44:18 - ProxyLog: INFO: Broadcast: World saved.
+2021-11-04 04:44:18 - ProxyLog: INFO: World saved at (/home/jupiteruser/.local/share/Terraria/Worlds/Purple~Fluffy~Wonderland.wld)
